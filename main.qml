@@ -7,7 +7,7 @@ Window {
     visible: true
     width: 640
     height: 640
-    title: qsTr("Qt Softwate Keyboard")
+    title: qsTr("Qt Soft Keyboard")
 
     Column {
         spacing: 10
