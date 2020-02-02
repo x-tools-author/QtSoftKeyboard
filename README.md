@@ -17,8 +17,8 @@ Qt 5.12 msvc 2017
 github  
 https://github.com/wuuhii/QtSoftKeyboard
 
-gitee
+gitee  
 https://gitee.com/wuuhii/QtSoftKeyboard
 
-gogs
+gogs  
 http://gogs.wuhai.pro/wuhai/QtSoftKeyboard
